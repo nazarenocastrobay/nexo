@@ -1116,7 +1116,8 @@ blockquote p {
 }
 .expertise .nav>li>a:focus, .expertise .nav>li>a:hover {
     text-decoration:none;
-    background:0 0
+    background:0 0;
+
 }
 .expertise .progress-heading {
     color:#fff;
@@ -1277,7 +1278,9 @@ blockquote p {
 .da-thumbs li a, .da-thumbs li a img {
     display:block;
     position:relative;
-    width:100%
+    width:100%;
+    filter: grayscale(20%);
+    border-radius: 5px;
 }
 .da-thumbs li a {
     overflow:hidden
