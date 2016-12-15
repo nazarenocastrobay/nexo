@@ -579,7 +579,8 @@ blockquote p {
 .main-navigation {
     border-bottom-color:rgba(255, 255, 255, .26);
     -webkit-transition:all .4s ease;
-    transition:all .4s ease
+    transition:all .4s ease;
+    padding-bottom: 1em;
 }
 .main-navigation .navbar-brand {
     font-family:Raleway, sans-serif;
@@ -1055,7 +1056,8 @@ blockquote p {
     color:#000
 }
 .expertise {
-    background:url(../images/backgrounds/bg-expertise.jpg) center center no-repeat
+    background:url(../images/backgrounds/bg-papel.jpg) center center no-repeat fixed;
+    background-size: cover;
 }
 .expertise .section-heading h1, .expertise .section-heading p {
     color:#fff
@@ -1139,7 +1141,7 @@ blockquote p {
     }
 }
 .video-player {
-    background:url(../images/backgrounds/bg-sombras.jpg) center bottom no-repeat;
+    background:url(../images/backgrounds/bg-sombras.jpg) center bottom no-repeat fixed;
     background-size:cover;
     color:#fff;
     text-transform:uppercase
