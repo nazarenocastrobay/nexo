@@ -94,7 +94,7 @@
                         </div>
                     </div>
                     <div class=col-sm-4>
-                        <figure class="about-content center"><img class="img-responsive center-block" src=assets/images/about-us/center_image.jpg alt="Alternative Text"></figure>
+                        <figure class="about-content center"><img class="img-responsive center-block" src=assets/images/about-us/center_image.jpg alt="Alternative Text" style="filter: grayscale(55%); border-radius: 5px;"></figure>
                     </div>
                     <div class=col-sm-4>
                         <div class="about-content right">
@@ -707,7 +707,7 @@
                 </div>
                 <div class="col-md-8 col-sm-6">
                     <form class=subscribe-form id=subscription-form>
-                        <div class=input-group><label class=sr-only for=subscriber-email>Email address</label> <input name=email type=email id=subscriber-email class=form-control placeholder="Enter your email address" required> <span class=input-group-addon><input id=subscribe-button type=submit class="btn btn-default" value=Join></span></div>
+                        <div class=input-group><label class=sr-only for=subscriber-email>Email</label> <input name=email type=email id=subscriber-email class=form-control placeholder="Ingresa tu email" required> <span class=input-group-addon><input id=subscribe-button type=submit class="btn btn-default" value=Join></span></div>
                     </form>
                     <div id=subscription-response></div>
                     <p class=spam-text>* We will never spam you</p>
@@ -722,12 +722,12 @@
             <div class=section-content>
                 <div class=row>
                     <div class="col-md-6 col-sm-5">
-                        <h5>Escribenos!</h5>
+                        <h5>Escríbenos!</h5>
                         <form action=php/contact-form.php class=contact-form id=contactForm method=post name=contactform>
-                            <div class=form-group><input class=form-control id=name name=name placeholder="Your Name" type=text required></div>
-                            <div class=form-group><input class=form-control id=email name=email placeholder="Email Address" type=email required></div>
-                            <div class=form-group><textarea class=form-control id=message name=massage placeholder="Type your message here" rows=5 required></textarea></div>
-                            <div id=contactFormResponse></div><button id=cfsubmit type=submit class="btn btn-dark btn-block contact-submit">Give us a shout</button></form>
+                            <div class=form-group><input class=form-control id=name name=name placeholder="Nombre" type=text required></div>
+                            <div class=form-group><input class=form-control id=email name=email placeholder="Email" type=email required></div>
+                            <div class=form-group><textarea class=form-control id=message name=massage placeholder="Escribe el texto aqui" rows=5 required></textarea></div>
+                            <div id=contactFormResponse></div><button id=cfsubmit type=submit class="btn btn-dark btn-block contact-submit">Enviar</button></form>
                     </div>
                     <div class="col-md-6 col-sm-7">
                         <h5>Encontranos en Google Maps</h5>
@@ -809,16 +809,13 @@ Córdoba - Argentina</li>
                 </div>
                 <div class="col-md-5 col-sm-4">
                     <ul class=footer-social-block>
-                        <li><a href=#><i class="fa fa-facebook"></i></a></li>
-                        <li><a href=#><i class="fa fa-twitter"></i></a></li>
-                        <li><a href=#><i class="fa fa-pinterest-p"></i></a></li>
-                        <li><a href=#><i class="fa fa-behance"></i></a></li>
-                        <li><a href=#><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href=#><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href=https://es-la.facebook.com/nexoconsulting /><i class="fa fa-facebook"></i></a></li>
+                        <li><a href=https://twitter.com/nexoconsulting><i class="fa fa-twitter"></i></a></li>
+                        <li><a href=https://www.linkedin.com/company/nexo-consulting-group><i class="fa fa-linkedin"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-md-4 col-sm-4">
-                    <div class="footer-menu text-xs-center"><a href=#>Privacy Policy</a> | <a>Terms &amp; Conditions</a></div>
+                    <div class="footer-menu text-xs-center">Powered by <a href=http://oixxio.net/>Oixxio</a></div>
                 </div>
             </div>
         </div>
