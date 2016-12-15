@@ -2556,7 +2556,8 @@ blockquote p {
 .footer {
     background-color:#000;
     color:#FDFDFD;
-    padding:32px 0
+    padding:32px 0;
+    border-bottom: 5px solid #c3ae75;
 }
 .footer .copyright, .footer .footer-menu {
     color:rgba(255, 255, 255, .9)
