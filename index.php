@@ -452,167 +452,10 @@
         </div>
         <div class=portfolio-grid>
             <ul id=da-thumbs class="da-thumbs isotope">
-                <li data-category=plantas class=plantas>
-                    <a href=portfolio__single.html><img src=assets/images/work/01.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>Nueva Planta Industrial Bimbo Argentina</h4><span>Proyecto y gestion integral</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=plantas class=plantas>
-                    <a href=portfolio__single.html><img src=assets/images/work/03.jpeg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>AMPLIACIÓN PLANTA INDUSTRIAL IDEAL CHILE</h4><span>Proyecto y dirección técnica</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=plantas class=plantas>
-                    <a href=portfolio__single.html><img src=assets/images/work/03.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>RECAMBIO DE CUBIERTA PLANTA EDISON BIMBO</h4><span>Proyecto y dirección técnica</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=plantas class=plantas>
-                    <a href=portfolio__single.html><img src=assets/images/work/04.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>AMPLIACIÓN PLANTA INDUSTRIAL PLUSVITA</h4><span>Gestión y dirección técnica</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=oficinas class=oficinas>
-                    <a href=portfolio__single.html><img src=assets/images/work/05.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>NUEVAS OFICINAS ADMINISTRATIVAS COMPAÑÍA DE
-									ALIMENTOS VALENTE S.A. </h4><span>Proyecto, dirección tecnica y gestión de las nuevas oficinas y
-									servicios</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=oficinas class=oficinas>
-                    <a href=portfolio__single.html><img src=assets/images/work/06.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>NUEVAS OFICINAS ADMINISTRATIVAS BIMBO/FROZEN
-									(GENERAL MILLS) ARGENTINA S.A.</h4><span>Proyecto, dirección técnica y gestión de las nuevas oficinas y
-									servicios</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=oficinas class=oficinas>
-                    <a href=portfolio__single.html><img src=assets/images/work/08.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>NUEVAS OFICINAS ADMINISTRATIVAS PLANTA
-									MAESTRO CUBANO</h4><span>Proyecto, dirección técnica y gestión de las nuevas oficinas y
-									servicios en Planta Maestro Cubano</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=direccion class=direccion>
-                    <a href=portfolio__single.html><img src=assets/images/work/mundo-dulce.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>PROYECTO Y GESTIÓN DE NUEVA PLANTA INDUSTRIAL
-									MUNDO DULCE SA DE CV</h4><span>Planta Industrial</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=direccion class=direccion>
-                    <a href=portfolio__single.html><img src=assets/images/work/10.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>ESTUDIO DE FACTIBILIDAD TÉCNICA PARA PROYECTO
-									DE TSP TEXTURED SOY PROTEIN</h4></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=direccion class=direccion>
-                    <a href=portfolio__single.html><img src=assets/images/work/11.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>DISEÑO Y DESARROLLO DE CELDAS DE PLÁSTICO
-									RECICLADO</h4></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=plantas class=plantas>
-                    <a href=portfolio__single.html><img src=assets/images/work/converflex.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>PROYECTO Y GESTIÓN DE NUEVA PLANTA INDUSTRIAL
-									CONVERFLEX ARGENTINA SA</h4></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=construccion class=construccion>
-                    <a href=portfolio__single.html><img src=assets/images/work/07.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>ESTADIO ARENA CIUDAD DE MÉXICO</h4><span>Revisión de proyecto y asistencia</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=plantas class=plantas>
-                    <a href=portfolio__single.html><img src=assets/images/work/cartocor.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>AMPLIACIÓN DE PLANTA CARTOCOR S.A</h4><span>Proyecto y gestión técnica</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=construccion class=construccion>
-                    <a href=portfolio__single.html><img src=assets/images/work/09.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>NAVE INDUSTRIAL PARA NUEVA FÁBRICA DE BLOQUES</h4><span>Construcción y provisión de mano de obra</span></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li data-category=direccion class=direccion>
-                    <a href=portfolio__single.html><img src=assets/images/work/distribucion.jpg alt="Alternative Text">
-                        <div class=portfolio-detail-overlay>
-                            <div class=middle-align-wrap>
-                                <div class=middle-align-cell>
-                                    <h4>PROYECTO Y GESTIÓN DE NUEVO CENTRO DE
-                                    DISTRIBUCIÓN ARCOR</h4></div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
+                <?php 
+                include('funciones.php');
+                printProyects();
+                 ?>
             </ul>
             
         </div>
@@ -839,3 +682,165 @@ Córdoba - Argentina</li>
 </body>
 
 </html>
+
+                <!--<li data-category=plantas class=plantas>
+                    <a href=portfolio__single.html><img src=assets/images/work/01.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>Nueva Planta Industrial Bimbo Argentina</h4><span>Proyecto y gestion integral</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=plantas class=plantas>
+                    <a href=portfolio__single.html><img src=assets/images/work/03.jpeg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>AMPLIACIÓN PLANTA INDUSTRIAL IDEAL CHILE</h4><span>Proyecto y dirección técnica</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=plantas class=plantas>
+                    <a href=portfolio__single.html><img src=assets/images/work/03.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>RECAMBIO DE CUBIERTA PLANTA EDISON BIMBO</h4><span>Proyecto y dirección técnica</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=plantas class=plantas>
+                    <a href=portfolio__single.html><img src=assets/images/work/04.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>AMPLIACIÓN PLANTA INDUSTRIAL PLUSVITA</h4><span>Gestión y dirección técnica</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=oficinas class=oficinas>
+                    <a href=portfolio__single.html><img src=assets/images/work/05.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>NUEVAS OFICINAS ADMINISTRATIVAS COMPAÑÍA DE
+                                    ALIMENTOS VALENTE S.A. </h4><span>Proyecto, dirección tecnica y gestión de las nuevas oficinas y
+                                    servicios</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=oficinas class=oficinas>
+                    <a href=portfolio__single.html><img src=assets/images/work/06.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>NUEVAS OFICINAS ADMINISTRATIVAS BIMBO/FROZEN
+                                    (GENERAL MILLS) ARGENTINA S.A.</h4><span>Proyecto, dirección técnica y gestión de las nuevas oficinas y
+                                    servicios</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=oficinas class=oficinas>
+                    <a href=portfolio__single.html><img src=assets/images/work/08.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>NUEVAS OFICINAS ADMINISTRATIVAS PLANTA
+                                    MAESTRO CUBANO</h4><span>Proyecto, dirección técnica y gestión de las nuevas oficinas y
+                                    servicios en Planta Maestro Cubano</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=direccion class=direccion>
+                    <a href=portfolio__single.html><img src=assets/images/work/mundo-dulce.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>PROYECTO Y GESTIÓN DE NUEVA PLANTA INDUSTRIAL
+                                    MUNDO DULCE SA DE CV</h4><span>Planta Industrial</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=direccion class=direccion>
+                    <a href=portfolio__single.html><img src=assets/images/work/10.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>ESTUDIO DE FACTIBILIDAD TÉCNICA PARA PROYECTO
+                                    DE TSP TEXTURED SOY PROTEIN</h4></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=direccion class=direccion>
+                    <a href=portfolio__single.html><img src=assets/images/work/11.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>DISEÑO Y DESARROLLO DE CELDAS DE PLÁSTICO
+                                    RECICLADO</h4></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=plantas class=plantas>
+                    <a href=portfolio__single.html><img src=assets/images/work/converflex.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>PROYECTO Y GESTIÓN DE NUEVA PLANTA INDUSTRIAL
+                                    CONVERFLEX ARGENTINA SA</h4></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=construccion class=construccion>
+                    <a href=portfolio__single.html><img src=assets/images/work/07.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>ESTADIO ARENA CIUDAD DE MÉXICO</h4><span>Revisión de proyecto y asistencia</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=plantas class=plantas>
+                    <a href=portfolio__single.html><img src=assets/images/work/cartocor.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>AMPLIACIÓN DE PLANTA CARTOCOR S.A</h4><span>Proyecto y gestión técnica</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=construccion class=construccion>
+                    <a href=portfolio__single.html><img src=assets/images/work/09.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>NAVE INDUSTRIAL PARA NUEVA FÁBRICA DE BLOQUES</h4><span>Construcción y provisión de mano de obra</span></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li data-category=direccion class=direccion>
+                    <a href=portfolio__single.html><img src=assets/images/work/distribucion.jpg alt="Alternative Text">
+                        <div class=portfolio-detail-overlay>
+                            <div class=middle-align-wrap>
+                                <div class=middle-align-cell>
+                                    <h4>PROYECTO Y GESTIÓN DE NUEVO CENTRO DE
+                                    DISTRIBUCIÓN ARCOR</h4></div>
+                            </div>
+                        </div>
+                    </a>
+                </li>-->
