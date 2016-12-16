@@ -1,5 +1,5 @@
 <?php
-	$href = 'portfolio__single.html';  
+	$href = 'portfolio__single.php';  
 	$proyectos = array();
 	$proyectos[] = array(
 			'category' => 'plantas',
