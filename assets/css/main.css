@@ -918,7 +918,7 @@ blockquote p {
 .header-inner {
     padding-top:200px;
     background-color:#000;
-    background-image:url(../images/backgrounds/bg-testimonial.jpg);
+    background-image:url(../images/work/single/bimbo.jpg);
     background-size:cover;
     text-align:center
 }
@@ -2711,4 +2711,7 @@ blockquote p {
 }
 .four-o-four .four-o-four-inner h1 {
     font-weight:700
+}
+.capitalize{
+    text-transform: capitalize !important;
 }
