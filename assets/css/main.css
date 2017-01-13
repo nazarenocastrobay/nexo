@@ -389,8 +389,9 @@ h1 {
 }
 @media only screen and (max-width:767px) {
     h1 {
-        font-size:42px;
-        letter-spacing:4px
+        font-size:3em;
+        letter-spacing:4px;
+
     }
 }
 h2 {
@@ -443,11 +444,12 @@ p.led {
 }
 p.led:first-letter {
     font-size:4em;
-    float:left;
+    float:left;.2
     line-height:50px
 }
 .dark-bg h1, .dark-bg h2, .dark-bg h3 {
-    color:#fff
+    color:#fff;
+    font-size: 3.2em;
 }
 blockquote p {
     font-family:serif;
